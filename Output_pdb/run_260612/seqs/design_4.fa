@@ -1,0 +1,10 @@
+>design_4, score=3.7042, global_score=1.9353, fixed_chains=['A'], designed_chains=['B'], model_name=v_48_020, git_hash=4089ae6c5ef298851ad7229a85470b3087122299, seed=37
+GGGGGGGGGG
+>T=0.5, sample=1, score=1.9685, global_score=1.8518, seq_recovery=0.0000
+SMSFSKVKRS
+>T=0.5, sample=2, score=1.9654, global_score=1.8373, seq_recovery=0.1000
+SISVGAVREA
+>T=0.5, sample=3, score=2.0432, global_score=1.8554, seq_recovery=0.1000
+GVTIAPVVTS
+>T=0.5, sample=4, score=1.8162, global_score=1.8688, seq_recovery=0.0000
+TITIAAVQRP
