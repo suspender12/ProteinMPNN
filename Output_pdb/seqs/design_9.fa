@@ -1,10 +1,10 @@
->design_9, score=3.8855, global_score=1.9103, fixed_chains=['A'], designed_chains=['B'], model_name=v_48_020, git_hash=0aea112e3ec78b738cec47094e209af6f078949a, seed=37
+>design_9, score=3.8855, global_score=1.9103, fixed_chains=['A'], designed_chains=['B'], model_name=v_48_020, git_hash=d0df3844e0aaa543f5adc6e9033748e308e204bb, seed=37
 GGGGGGGG
->T=0.1, sample=1, score=1.4824, global_score=1.8307, seq_recovery=0.0000
-MTFSQVKR
->T=0.1, sample=2, score=1.3679, global_score=1.8451, seq_recovery=0.0000
-MKFEQVAR
->T=0.1, sample=3, score=1.3922, global_score=1.8375, seq_recovery=0.0000
-MSFSQVAR
->T=0.1, sample=4, score=1.3623, global_score=1.8449, seq_recovery=0.0000
-MSFAQVAR
+>T=0.5, sample=1, score=1.9274, global_score=1.8467, seq_recovery=0.0000
+PRWESVKR
+>T=0.5, sample=2, score=1.4932, global_score=1.8496, seq_recovery=0.0000
+MKFEQVQR
+>T=0.5, sample=3, score=1.4735, global_score=1.8404, seq_recovery=0.0000
+MEFRQVKR
+>T=0.5, sample=4, score=1.7335, global_score=1.8582, seq_recovery=0.0000
+MSFAQRRR
