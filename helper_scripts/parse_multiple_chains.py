@@ -138,7 +138,7 @@ def main(args):
                     coords_dict_chain['O_chain_' + letter] = xyz[:, 3, :].tolist()
                 my_dict['coords_chain_'+letter]=coords_dict_chain
                 s += 1
-        fi = biounit.rfind("/")
+        fi = biounit.rfind(os.sep)
         my_dict['name']=biounit[(fi+1):-4]
         my_dict['num_of_chains'] = s
         my_dict['seq'] = concat_seq
